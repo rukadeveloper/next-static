@@ -1,0 +1,22 @@
+.home ul {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.home ul li {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.home ul li a img {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.home ul li a span {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+}
